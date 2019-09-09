@@ -1,6 +1,6 @@
 # Visualizing Institutional Scholar Relationships (VISR)
 
-View the project live at https://ben-var.github.io/VISR/. It will take ~30s to download the data and load the graph. Press the blue "Load" button once the screen is no longer greyed out to display the graph for your selected field of study.
+View the project live at [HERE](https://whoyoung388.github.io/visualization-of-schools/.) It will take ~30s to download the data and load the graph. Press the blue "Load" button once the screen is no longer greyed out to display the graph for your selected field of study.
 
 All the code for the project contained in the root directory.
 
